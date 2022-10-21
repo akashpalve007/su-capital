@@ -1,0 +1,7 @@
+module.exports.addComic = require('./controller.addComic')
+module.exports.updateComic = require('./controller.updateComic')
+module.exports.removeComic = require('./controller.removeComic')
+module.exports.listComic = require('./controller.listAllComics')
+module.exports.getComicbyId = require('./controller.getComicById')
+module.exports.listAllComic = require('./controller.list')
+module.exports.getComicListBySeriesId = require('./controller.getComicListBySeriesId')

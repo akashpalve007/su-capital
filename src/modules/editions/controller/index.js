@@ -1,0 +1,1 @@
+module.exports.createEditions = require('./createEditions.controller')

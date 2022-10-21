@@ -1,0 +1,7 @@
+module.exports.addCollectible = require('./controller.addCollectible')
+module.exports.updateCollectible = require('./controller.updateCollectible')
+module.exports.removeCollectible = require('./controller.removeCollectible')
+module.exports.listCollectible = require('./controller.listAllCollectibles')
+module.exports.getCollectibleById = require('./controller.getCollectibleById')
+module.exports.listAllCollectible = require('./controller.list')
+module.exports.getCollectibleListBySeriesId = require('./controller.getCollectibleListBySeriesId')

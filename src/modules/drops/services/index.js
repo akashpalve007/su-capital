@@ -1,0 +1,5 @@
+module.exports.addDrop = require('./services.addDrop')
+module.exports.getDropById = require('./services.getDropById')
+module.exports.listDrop = require('./services.listDrop')
+module.exports.updateDrop = require('./services.updateDrop')
+module.exports.removeDrop = require('./services.removeDrop')

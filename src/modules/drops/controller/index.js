@@ -1,0 +1,5 @@
+module.exports.addDrop = require('./controller.addDrop')
+module.exports.getDropById = require('./controller.getDropById')
+module.exports.listDrop = require('./controller.listDrop')
+module.exports.updateDrop = require('./controller.updateDrop')
+module.exports.removeDrop = require('./controller.removeDrop')
